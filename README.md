@@ -19,6 +19,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Harvard](https://pll.harvard.edu/catalog?topics%5B702%5D=702&topics%5B714%5D=714&topics%5B715%5D=715&price%5B1%5D=1&max_price=&start_date=&keywords=&available_anytime=0&url=)
 - [MIT Open CourseWare](https://ocw.mit.edu/)
 - [MITx](https://mitxonline.mit.edu/catalog/courses/electrical-engineering-and-computer-science)
+- [Stanford](https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&filter%5B1%5D=topic%3A1047&filter%5B2%5D=topic%3A1054&filter%5B3%5D=topic%3A1057&filter%5B4%5D=topic%3A1062&keywords=&items_per_page=12)
 
 ---
 
@@ -45,7 +46,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## Programming
-- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — Dartmouth / Institut Mines-Télécom 
+- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — Dartmouth / Institut Mines-Télécom
+- [CS193P Developing Apps for IOS (IOS 18 2025)](https://cs193p.stanford.edu/) — Stanford
 
 ---
 
