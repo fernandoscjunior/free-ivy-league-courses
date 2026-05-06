@@ -33,7 +33,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## Computer Science
 - [Algorithms](https://www.coursera.org/specializations/algorithms) — Stanford (Coursera)
 - [Algorithms Pt.I](https://www.coursera.org/learn/algorithms-part1) — Princeton (Coursera)
-- [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) — Princeton (Coursera)  
+- [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) — Princeton (Coursera)
+- [Advanced Algorithms](https://www.classcentral.com/classroom/youtube-advanced-algorithms-compsci-224-48051) - Harvard
 - [Computer Architecture](https://www.coursera.org/learn/comparch) — Princeton (Coursera)
 - [Computer Science: Algoithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — Princeton (Coursera)
 - [Cryptography](https://www.coursera.org/learn/crypto) — Stanford (Coursera)
@@ -66,6 +67,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) — Dartmouth (Coursera)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — Stanford / DeepLearning.ai (Coursera)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) — Imperial College (Coursera)
+- [Model Based Deep Learning](https://www.classcentral.com/classroom/youtube-model-based-deep-learning-beyond-unrolling-182518) — Yale
 - [Decision Making and Reinforcement Learning](https://www.coursera.org/learn/dmrol) — Columbia University (Coursera)
 - [Tensor 2 for Deep Learning](https://www.coursera.org/specializations/tensorflow2-deeplearning) — Imperial College (Coursera)
 
@@ -90,6 +92,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## Others
 - [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) — University of Toronto (Coursera)
 - [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) — Columbia University (Coursera)
+- [Intro to Classical and Quantum Error Correction](https://www.classcentral.com/classroom/youtube-class-1-steve-girvin-introduction-to-classical-and-quantum-errors-corrections-479328) — Yale
 
 ## 🚀 Contributing
 Pull requests are welcome!  
