@@ -41,7 +41,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — Princeton (Coursera)
 - [Cryptography](https://www.coursera.org/learn/crypto) — Stanford (Coursera)
 - [CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard
-- [Data Structures & Algoithms I-IV](https://pe.gatech.edu/courses/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) — Georgia Tech
+- [Data Structures & Algorithms I-IV](https://pe.gatech.edu/courses/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) — Georgia Tech
 - [EE274 Data Compression 2023](https://www.youtube.com/watch?v=FF7DRogZZdY&list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) — Stanford
 - [Intro to Algorithms](https://www.classcentral.com/classroom/mit-ocw-6-006-introduction-to-algorithms-spring-2020-66373) — MIT
 - [Intro to Computer Science and Programming (Spring 2011)](https://www.classcentral.com/classroom/mit-opencourseware-introduction-to-computer-science-and-programming-spring-2011-40928) — MIT
