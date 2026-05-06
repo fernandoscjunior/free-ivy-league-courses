@@ -128,21 +128,21 @@ If you know of other free Ivy League courses, feel free to add them.
 ---
 
 ## Universities Considered
-Brown University
-Columbia University
-Cornell University
-Dartmouth
-Georgia Tech
-Harvard
-Imperial College
-MIT
-Oxford
-Princeton
-Stanford
-University of Cambridge
-University of Pennsylvania
-University of Toronto
-Yale
+- Brown University
+- Columbia University
+- Cornell University
+- Dartmouth
+- Georgia Tech
+- Harvard
+- Imperial College
+- MIT
+- Oxford
+- Princeton
+- Stanford
+- University of Cambridge
+- University of Pennsylvania
+- University of Toronto
+- Yale
 
 ---
 
