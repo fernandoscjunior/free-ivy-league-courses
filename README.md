@@ -1,7 +1,7 @@
 # Free Ivy League IT Courses
 
 A curated list of **free online courses** offered by Ivy League universities as well as other known and high quality universities from across the world.  
-Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x).
+Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x).  
 (Coursera and edx have financial support resources for any registered student on their platform. Please look on their website for more info)
 
 ---
@@ -37,7 +37,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## Blockchain
-- [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) — MIT
+- [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) — MIT (OpenCourseWare)
 - [Cryptocurrency Engineering ad Design](https://www.classcentral.com/classroom/mit-ocw-mas-s62-cryptocurrency-engineering-and-design-spring-2018-40972) — MIT
 
 ---
@@ -50,34 +50,34 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Computer Architecture](https://www.coursera.org/learn/comparch) — Princeton (Coursera)
 - [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — Princeton (Coursera)
 - [Cryptography](https://www.coursera.org/learn/crypto) — Stanford (Coursera)
-- [Cryptography and Cryptanalysis](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) — MIT
+- [Cryptography and Cryptanalysis](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) — MIT (OpenCourseWare)
 - [CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard
 - [Data Structures & Algorithms I-IV](https://pe.gatech.edu/courses/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) — Georgia Tech
 - [EE274 Data Compression 2023](https://www.youtube.com/watch?v=FF7DRogZZdY&list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) — Stanford
 - [Intro to Algorithms](https://www.classcentral.com/classroom/mit-ocw-6-006-introduction-to-algorithms-spring-2020-66373) — MIT
 - [Intro to Computer Science and Programming (Spring 2011)](https://www.classcentral.com/classroom/mit-opencourseware-introduction-to-computer-science-and-programming-spring-2011-40928) — MIT
 - [Intro to Computers](https://www.classcentral.com/course/youtube-stanford-cs105-introduction-to-computers-full-course-107758) — Stanford
-- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) — MIT
+- [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) — MIT (OpenCourseWare)
 - [Structure and Interpretration of Computer Programs](https://www.classcentral.com/course/mit-ocw-6-001-structure-and-interpretation-of-computer-programs-spring-2005-292228) — MIT
   
 ---
 
 ## Cybersecurity
-- [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) — MIT
+- [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) — MIT (OpenCourseWare)
 - [Hacker Tools](https://www.classcentral.com/course/independent-hacker-tools-13160) — MIT
 
 ---
 
 ## Databases
-- [Database, Internet, And System Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/) — MIT
-- [Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/) — MIT
+- [Database, Internet, And System Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/) — MIT (OpenCourseWare)
+- [Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/) — MIT (OpenCourseWare)
 - [Database Systems](https://www.classcentral.com/course/freecodecamp-database-systems-cornell-university-course-sql-nosql-large-scale-data-analysis-57068?ref=freecodecamp) — Cornell University
 
 ---
 
 ## Data Analysis
 - [Computing for Data Analysis](https://pe.gatech.edu/courses/computing-for-data-analysis#tab-overview) — Georgia Tech
-- [Intro to R and GRIS](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) — MIT
+- [Intro to R and GRIS](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) — MIT (OpenCourseWare)
 - [Statiscal Learning with R](https://www.classcentral.com/classroom/youtube-statistical-learning-with-r-512673) — Stanford
   
 ---
@@ -103,7 +103,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## Game Development
 - [Creating Video Games](https://www.classcentral.com/classroom/mit-ocw-cms-611j-creating-video-games-fall-2014-40923) — MIT
-- [Game Design](https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/) — MIT
+- [Game Design](https://ocw.mit.edu/courses/cms-608-game-design-spring-2014/) — MIT (OpenCourseWare)
 - [How to Design Addictive Video Games](https://www.classcentral.com/classroom/youtube-stanford-seminar-how-to-design-addictive-games-191982) — Stanford
 - [Physical-Based Sound Sythesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) — Stanford
   
@@ -111,9 +111,9 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## IOT & Robotics
 - [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) — Columbia University (Coursera)
-- [Intro to Robotics](https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/) — MIT
+- [Intro to Robotics](https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/) — MIT (OpenCourseWare)
 - [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) — Stanford
-- [Robotics Manipulation](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/) — MIT
+- [Robotics Manipulation](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/) — MIT (OpenCourseWare)
 - [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) — University of Toronto (Coursera)
   
 ---
@@ -141,8 +141,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## Network
 - [Intro to Computer Networks](https://www.classcentral.com/course/independent-an-introduction-to-computer-networks-471) — Stanford
-- [Network and Computer Security](https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/) — MIT
-- [Network Optimization](https://ocw.mit.edu/courses/15-082j-network-optimization-fall-2010/) — MIT
+- [Network and Computer Security](https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/) — MIT (OpenCourseWare)
+- [Network Optimization](https://ocw.mit.edu/courses/15-082j-network-optimization-fall-2010/) — MIT (OpenCourseWare)
   
 ---
 
@@ -154,18 +154,18 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Computing in Python I-IV](https://pe.gatech.edu/courses/computing-python-i-fundamentals-and-procedural-programming) — Georgia Tech
 - [Computer Science: Programming with Purpose (Java)](https://www.coursera.org/learn/cs-programming-java) — Princeton (Coursera)
 - [Haskell Programming](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) — University of Pennsylvania
-- [Effective Programming in C and C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) — MIT
-- [Intro to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) — MIT
-- [Intro to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/) — MIT
+- [Effective Programming in C and C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) — MIT (OpenCourseWare)
+- [Intro to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) — MIT (OpenCourseWare)
+- [Intro to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/) — MIT (OpenCourseWare)
 - [Intro to Computer Science (Python)](https://www.classcentral.com/classroom/mit-ocw-6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016-40930) — MIT
-- [Intro to Computer and Engineering Problem Solving](https://ocw.mit.edu/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/) — MIT
+- [Intro to Computer and Engineering Problem Solving](https://ocw.mit.edu/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/) — MIT (OpenCourseWare)
 - [Intro to Java Programming I-III](https://pe.gatech.edu/courses/introduction-java-programming-i-foundations-and-syntax-basics) — Georgia Tech
-- [Intro to MATLAB](https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/) — MIT
-- [Intro to Programming in Java](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/) — MIT
+- [Intro to MATLAB](https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/) — MIT (OpenCourseWare)
+- [Intro to Programming in Java](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/) — MIT (OpenCourseWare)
 - [Multicore Programming](https://www.classcentral.com/classroom/mit-ocw-6-189-multicore-programming-primer-january-iap-2007-40944) — MIT
-- [Operating System Engineering](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/) — MIT
+- [Operating System Engineering](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/) — MIT (OpenCourseWare)
 - [Performance Engineering of Software Systems](https://www.classcentral.com/classroom/mit-ocw-6-172-performance-engineering-of-software-systems-fall-2018-40943) — MIT
-- [Practical Programming in C](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/) — MIT
+- [Practical Programming in C](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/) — MIT (OpenCourseWare)
 
 ### Mobile
 - [Android App Development Winter 2019](https://www.classcentral.com/classroom/youtube-cs-193a-android-app-development-winter-2019-107767) — Stanford
@@ -177,8 +177,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## Sound
 - [Computational Music Theory and Analysis](https://www.classcentral.com/course/mit-ocw-21m-383-computational-music-theory-and-analysis-spring-2023-497094) — MIT
-- [Interactive Music Systems](https://ocw.mit.edu/courses/21m-385-interactive-music-systems-fall-2016/) — MIT
-- [Music and Technology](https://ocw.mit.edu/courses/21m-380-music-and-technology-sound-design-spring-2016/) — MIT
+- [Interactive Music Systems](https://ocw.mit.edu/courses/21m-385-interactive-music-systems-fall-2016/) — MIT (OpenCourseWare)
+- [Music and Technology](https://ocw.mit.edu/courses/21m-380-music-and-technology-sound-design-spring-2016/) — MIT (OpenCourseWare)
 - [Sound Design for Interactive Learning Tools](https://pe.gatech.edu/courses/sound-design-for-interactive-learning-tools)  — Georgia Tech
   
 ---
@@ -187,15 +187,15 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Human-Computer Interaction I-IV](https://pe.gatech.edu/courses/human-computer-interaction-i-fundamentals-and-design-principles) — Georgia Tech 
 - [Introduction to UX](https://www.coursera.org/learn/user-experience-design) — Georgia Tech (Coursera)
 - [UX Design](https://www.coursera.org/learn/user-experience-design-cam) — University of Cambridge (Coursera)
-- [User Interface Design and Implementation](https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/) — MIT
+- [User Interface Design and Implementation](https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/) — MIT (OpenCourseWare)
 
 ---
 
 ## Others
-- [Computational Camera and Photography](https://ocw.mit.edu/courses/mas-531-computational-camera-and-photography-fall-2009/) — MIT
-- [Computer Graphics](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) — MIT
+- [Computational Camera and Photography](https://ocw.mit.edu/courses/mas-531-computational-camera-and-photography-fall-2009/) — MIT (OpenCourseWare)
+- [Computer Graphics](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) — MIT (OpenCourseWare)
 - [CS149 Parallel Computing](https://www.classcentral.com/classroom/youtube-stanford-cs149-i-parallel-computing-i-2023-i-kayvon-fatahalian-and-kunle-olukotun-512660) — Stanford
-- [Intro to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/) — MIT
+- [Intro to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/) — MIT (OpenCourseWare)
 - [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — Cornell University (edx)
 
 ---
