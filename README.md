@@ -44,14 +44,14 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## Computer Science
 - [Algorithms](https://www.coursera.org/specializations/algorithms) — Stanford (Coursera)
-- [Algorithms Pt.I](https://www.coursera.org/learn/algorithms-part1) — Princeton (Coursera)
-- [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) — Princeton (Coursera)
-- [Advanced Algorithms](https://www.classcentral.com/classroom/youtube-advanced-algorithms-compsci-224-48051) - Harvard
-- [Computer Architecture](https://www.coursera.org/learn/comparch) — Princeton (Coursera)
-- [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — Princeton (Coursera)
+- [Algorithms Pt.I](https://www.coursera.org/learn/algorithms-part1) — *Princeton* (Coursera)
+- [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) — *Princeton* (Coursera)
+- [Advanced Algorithms](https://www.classcentral.com/classroom/youtube-advanced-algorithms-compsci-224-48051) - *Harvard* (Youtube)
+- [Computer Architecture](https://www.coursera.org/learn/comparch) — *Princeton* (Coursera)
+- [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — *Princeton* (Coursera)
 - [Cryptography](https://www.coursera.org/learn/crypto) — Stanford (Coursera)
 - [Cryptography and Cryptanalysis](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) — MIT (OpenCourseWare)
-- [CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) — Harvard
+- [CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) — *Harvard*
 - [Data Structures & Algorithms I-IV](https://pe.gatech.edu/courses/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) — Georgia Tech
 - [EE274 Data Compression 2023](https://www.youtube.com/watch?v=FF7DRogZZdY&list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) — Stanford
 - [Intro to Algorithms](https://www.classcentral.com/classroom/mit-ocw-6-006-introduction-to-algorithms-spring-2020-66373) — MIT
@@ -65,13 +65,14 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## Cybersecurity
 - [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) — MIT (OpenCourseWare)
 - [Hacker Tools](https://www.classcentral.com/course/independent-hacker-tools-13160) — MIT
+- [Intro to Cybersecurity](https://www.open.edu/openlearn/digital-computing/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab) — Open Univeristy
 
 ---
 
 ## Databases
 - [Database, Internet, And System Integration Technologies](https://ocw.mit.edu/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/) — MIT (OpenCourseWare)
 - [Database Systems](https://ocw.mit.edu/courses/6-830-database-systems-fall-2010/) — MIT (OpenCourseWare)
-- [Database Systems](https://www.classcentral.com/course/freecodecamp-database-systems-cornell-university-course-sql-nosql-large-scale-data-analysis-57068?ref=freecodecamp) — Cornell University
+- [Database Systems](https://www.classcentral.com/course/freecodecamp-database-systems-cornell-university-course-sql-nosql-large-scale-data-analysis-57068?ref=freecodecamp) — *Cornell University*
 
 ---
 
@@ -110,7 +111,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## IOT & Robotics
-- [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) — Columbia University (Coursera)
+- [CS223A Intro to Robotics](https://see.stanford.edu/Course/CS223A) — Stanford
+- [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) — *Columbia University* (Coursera)
 - [Intro to Robotics](https://ocw.mit.edu/courses/2-12-introduction-to-robotics-fall-2005/) — MIT (OpenCourseWare)
 - [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) — Stanford
 - [Robotics Manipulation](https://ocw.mit.edu/courses/6-4210-robotic-manipulation-fall-2022/) — MIT (OpenCourseWare)
@@ -119,14 +121,15 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## Machine Learning
-- [CS229 Machine Learning Spring 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) — Stanford
+- [CS229 Machine Learning](https://see.stanford.edu/Course/CS229) — Stanford
+- [CS229 Machine Learning Spring 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) — Stanford (Youtube)
 - [CS234 Reinforcement Learning Spring 2024](https://www.classcentral.com/classroom/youtube-stanford-cs234-i-reinforcement-learning-i-spring-2024-i-emma-brunskill-512659) — Stanford
 - [CS336 Language Modeling from Scratch 2025](https://www.classcentral.com/classroom/youtube-stanford-cs336-language-modeling-from-scratch-i-2025-512656) — Stanford
-- [Decision Making and Reinforcement Learning](https://www.coursera.org/learn/dmrol) — Columbia University (Coursera)
-- [Fundamentals of TinyML](https://www.classcentral.com/course/machine-learning-harvard-university-fundamentals--21641?ref=freecodecamp) — Harvard (edx)
+- [Decision Making and Reinforcement Learning](https://www.coursera.org/learn/dmrol) — *Columbia University* (Coursera)
+- [Fundamentals of TinyML](https://www.classcentral.com/course/machine-learning-harvard-university-fundamentals--21641?ref=freecodecamp) — *Harvard* (edx)
 - [Intro to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) — MIT
-- [Machine Learning Fundamentals](https://www.coursera.org/learn/machine-learning-fundamentals-dartmouth) — Dartmouth (Coursera)
-- [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) — Dartmouth (Coursera)
+- [Machine Learning Fundamentals](https://www.coursera.org/learn/machine-learning-fundamentals-dartmouth) — *Dartmouth* (Coursera)
+- [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) — *Dartmouth* (Coursera)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) — Stanford / DeepLearning.ai (Coursera)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) — Imperial College (Coursera)
 
@@ -134,7 +137,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [CS224N Natural Language Processing with Deep Learning 2023](https://www.classcentral.com/classroom/youtube-stanford-cs224n-natural-language-processing-with-deep-learning-2023-512667) — Stanford
 - [Hands-on Deep Learning](https://www.classcentral.com/course/mit-ocw-15-773-hands-on-deep-learning-spring-2024-526082) — MIT
 - [Intro to Deep Learning](https://introtodeeplearning.com/index.html) — MIT
-- [Model Based Deep Learning](https://www.classcentral.com/classroom/youtube-model-based-deep-learning-beyond-unrolling-182518) — Yale
+- [Model Based Deep Learning](https://www.classcentral.com/classroom/youtube-model-based-deep-learning-beyond-unrolling-182518) — *Yale*
 - [Tensor 2 for Deep Learning](https://www.coursera.org/specializations/tensorflow2-deeplearning) — Imperial College (Coursera)
 
 ---
@@ -147,16 +150,13 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## Programming
-
-- [C Programming](https://c-programming.onlinelearning.utoronto.ca/) — University of Toronto
-- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — Dartmouth / Institut Mines-Télécom (Coursera)
-- [CSCI1730 Intro to Programming Languages](https://www.classcentral.com/course/independent-csci-1730-introduction-to-programming-languages-458?ref=freecodecamp)  — Brown University
+- [CS106A Programming Methodology](https://see.stanford.edu/Course/CS106A) — Stanford
+- [CS106B Programming Abstractions](https://see.stanford.edu/Course/CS106B) — Stanford
+- [CS107 Programming Paradigms](https://see.stanford.edu/Course/CS107) — Stanford
+- [CSCI1730 Intro to Programming Languages](https://www.classcentral.com/course/independent-csci-1730-introduction-to-programming-languages-458?ref=freecodecamp)  — *Brown University*
+- [Computer Science: Programming with Purpose (Java)](https://www.coursera.org/learn/cs-programming-java) — *Princeton* (Coursera)
 - [Computing in Python I-IV](https://pe.gatech.edu/courses/computing-python-i-fundamentals-and-procedural-programming) — Georgia Tech
-- [Computer Science: Programming with Purpose (Java)](https://www.coursera.org/learn/cs-programming-java) — Princeton (Coursera)
-- [Haskell Programming](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) — University of Pennsylvania
-- [Effective Programming in C and C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) — MIT (OpenCourseWare)
-- [Intro to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) — MIT (OpenCourseWare)
-- [Intro to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/) — MIT (OpenCourseWare)
+- [Haskell Programming](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) — *University of Pennsylvania*
 - [Intro to Computer Science (Python)](https://www.classcentral.com/classroom/mit-ocw-6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016-40930) — MIT
 - [Intro to Computer and Engineering Problem Solving](https://ocw.mit.edu/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/) — MIT (OpenCourseWare)
 - [Intro to Java Programming I-III](https://pe.gatech.edu/courses/introduction-java-programming-i-foundations-and-syntax-basics) — Georgia Tech
@@ -165,13 +165,20 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Multicore Programming](https://www.classcentral.com/classroom/mit-ocw-6-189-multicore-programming-primer-january-iap-2007-40944) — MIT
 - [Operating System Engineering](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/) — MIT (OpenCourseWare)
 - [Performance Engineering of Software Systems](https://www.classcentral.com/classroom/mit-ocw-6-172-performance-engineering-of-software-systems-fall-2018-40943) — MIT
-- [Practical Programming in C](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/) — MIT (OpenCourseWare)
 
 ### Mobile
 - [Android App Development Winter 2019](https://www.classcentral.com/classroom/youtube-cs-193a-android-app-development-winter-2019-107767) — Stanford
 - [Android App Development (Advanced)](https://www.coursera.org/specializations/advanced-app-android) — Imperial College (Coursera)
 - [CS193P Developing Apps for IOS](https://cs193p.stanford.edu/) — Stanford
 - [IOS Development with Swift](https://www.coursera.org/specializations/app-development) — University of Toronto (Coursera)
+
+### C/C++
+- [C Programming](https://c-programming.onlinelearning.utoronto.ca/) — University of Toronto
+- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — *Dartmouth* / Institut Mines-Télécom (Coursera)
+- [Effective Programming in C and C++](https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-2014/) — MIT (OpenCourseWare)
+- [Intro to C and C++](https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/) — MIT (OpenCourseWare)
+- [Intro to C++](https://ocw.mit.edu/courses/6-096-introduction-to-c-january-iap-2011/) — MIT (OpenCourseWare)
+- [Practical Programming in C](https://ocw.mit.edu/courses/6-087-practical-programming-in-c-january-iap-2010/) — MIT (OpenCourseWare)
   
 ---
 
@@ -196,7 +203,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Computer Graphics](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) — MIT (OpenCourseWare)
 - [CS149 Parallel Computing](https://www.classcentral.com/classroom/youtube-stanford-cs149-i-parallel-computing-i-2023-i-kayvon-fatahalian-and-kunle-olukotun-512660) — Stanford
 - [Intro to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/) — MIT (OpenCourseWare)
-- [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — Cornell University (edx)
+- [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — *Cornell University* (edx)
 
 ---
 
@@ -207,21 +214,22 @@ If you know of other free Ivy League courses, feel free to add them.
 ---
 
 ## Universities Considered
-- Brown University
-- Columbia University
-- Cornell University
-- Dartmouth
+- *Brown University*
+- *Columbia University*
+- *Cornell University*
+- *Dartmouth*
 - Georgia Tech
-- Harvard
+- *Harvard*
 - Imperial College
 - MIT (OpenCourseware and MITx)
+- Open Univeristy
 - Oxford
-- Princeton
+- *Princeton*
 - Stanford
 - University of Cambridge
-- University of Pennsylvania
+- *University of Pennsylvania*
 - University of Toronto
-- Yale
+- *Yale*
 
 ---
 
