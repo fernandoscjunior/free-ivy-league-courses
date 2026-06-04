@@ -143,7 +143,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## Network
-- [Intro to Computer Networks](https://www.classcentral.com/course/independent-an-introduction-to-computer-networks-471) — Stanford
 - [Network and Computer Security](https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/) — MIT (OpenCourseWare)
 - [Network Optimization](https://ocw.mit.edu/courses/15-082j-network-optimization-fall-2010/) — MIT (OpenCourseWare)
   
