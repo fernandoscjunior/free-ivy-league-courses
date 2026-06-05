@@ -48,6 +48,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) — *Princeton* (Coursera)
 - [Advanced Algorithms](https://www.classcentral.com/classroom/youtube-advanced-algorithms-compsci-224-48051) - *Harvard* (Youtube)
 - [Computer Architecture](https://www.coursera.org/learn/comparch) — *Princeton* (Coursera)
+- [Computer Science 101](https://www.edx.org/learn/computer-science/stanford-university-computer-science-101) — Stanford (edx)
 - [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — *Princeton* (Coursera)
 - [Cryptography](https://www.coursera.org/learn/crypto) — Stanford (Coursera)
 - [Cryptography and Cryptanalysis](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) — MIT (OpenCourseWare)
