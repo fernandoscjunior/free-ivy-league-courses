@@ -142,13 +142,12 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Intro to Java Programming I-III](https://pe.gatech.edu/courses/introduction-java-programming-i-foundations-and-syntax-basics) — Georgia Tech
 - [Intro to MATLAB](https://ocw.mit.edu/courses/6-057-introduction-to-matlab-january-iap-2019/) — MIT (OpenCourseWare)
 - [Intro to Programming in Java](https://ocw.mit.edu/courses/6-092-introduction-to-programming-in-java-january-iap-2010/) — MIT (OpenCourseWare)
-- [Multicore Programming](https://www.classcentral.com/classroom/mit-ocw-6-189-multicore-programming-primer-january-iap-2007-40944) — MIT
 - [Operating System Engineering](https://ocw.mit.edu/courses/6-1810-operating-system-engineering-fall-2023/) — MIT (OpenCourseWare)
 - [Performance Engineering of Software Systems](https://www.classcentral.com/classroom/mit-ocw-6-172-performance-engineering-of-software-systems-fall-2018-40943) — MIT
 
 ### Mobile
-- [Android App Development Winter 2019](https://www.classcentral.com/classroom/youtube-cs-193a-android-app-development-winter-2019-107767) — Stanford
 - [Android App Development (Advanced)](https://www.coursera.org/specializations/advanced-app-android) — Imperial College (Coursera)
+- [CS193A Android App Development Winter 2019](https://www.classcentral.com/classroom/youtube-cs-193a-android-app-development-winter-2019-107767) — Stanford
 - [CS193P Developing Apps for IOS](https://cs193p.stanford.edu/) — Stanford
 - [IOS Development with Swift](https://www.coursera.org/specializations/app-development) — University of Toronto (Coursera)
 
