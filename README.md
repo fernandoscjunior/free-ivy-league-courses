@@ -7,18 +7,14 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## 📚 Contents
-- [Blockchain](#blockchain)
 - [Computer Science](#computer-science)
 - [Cybersecuirty](#cybersecurity)
 - [Databases](#databases)
-- [Data Analysis](#data-analysis)
-- [Data Science](#data-science)
+- [Data Analysis & Data Science](#data-analysis--data-science)
 - [DevOps & Cloud](#devops--cloud)
-- [Eletrical Engineering](#eletrical-engineering)
 - [Game Development](#game-development)
 - [IOT & Robotics](#iot--robotics)
 - [Programming](#programming)
-- [Sound](#sound)
 - [UX](#ux)
 - [Others](#others)
   
@@ -36,12 +32,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ---
 
-## Blockchain
-- [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) — MIT (OpenCourseWare)
-- [Cryptocurrency Engineering ad Design](https://www.classcentral.com/classroom/mit-ocw-mas-s62-cryptocurrency-engineering-and-design-spring-2018-40972) — MIT
-
----
-
 ## Computer Science
 - [Algorithms](https://www.coursera.org/specializations/algorithms) — Stanford (Coursera)
 - [Algorithms Pt.I](https://www.coursera.org/learn/algorithms-part1) — *Princeton* (Coursera)
@@ -52,12 +42,12 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) — *Princeton* (Coursera)
 - [Cryptography](https://www.coursera.org/learn/crypto) — Stanford (Coursera)
 - [Cryptography and Cryptanalysis](https://ocw.mit.edu/courses/6-875-cryptography-and-cryptanalysis-spring-2005/) — MIT (OpenCourseWare)
+- [CS105 Intro to Computers](https://www.classcentral.com/course/youtube-stanford-cs105-introduction-to-computers-full-course-107758) — Stanford (Youtube)
 - [CS50 Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science) — *Harvard*
 - [Data Structures & Algorithms I-IV](https://pe.gatech.edu/courses/data-structures-algorithms-i-arraylists-linkedlists-stacks-and-queues) — Georgia Tech
-- [EE274 Data Compression 2023](https://www.youtube.com/watch?v=FF7DRogZZdY&list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) — Stanford
-- [Intro to Algorithms](https://www.classcentral.com/classroom/mit-ocw-6-006-introduction-to-algorithms-spring-2020-66373) — MIT
+- [EE274 Data Compression 2023](https://www.youtube.com/watch?v=FF7DRogZZdY&list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) — Stanford (Youtube)
+- [Intro to Algorithms (Spring 2020)](https://www.classcentral.com/classroom/mit-ocw-6-006-introduction-to-algorithms-spring-2020-66373) — MIT
 - [Intro to Computer Science and Programming (Spring 2011)](https://www.classcentral.com/classroom/mit-opencourseware-introduction-to-computer-science-and-programming-spring-2011-40928) — MIT
-- [Intro to Computers](https://www.classcentral.com/course/youtube-stanford-cs105-introduction-to-computers-full-course-107758) — Stanford
 - [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) — MIT (OpenCourseWare)
 - [Structure and Interpretration of Computer Programs](https://www.classcentral.com/course/mit-ocw-6-001-structure-and-interpretation-of-computer-programs-spring-2005-292228) — MIT
   
@@ -77,29 +67,19 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ---
 
-## Data Analysis
+## Data Analysis & Data Science
 - [Computing for Data Analysis](https://pe.gatech.edu/courses/computing-for-data-analysis#tab-overview) — Georgia Tech
-- [Intro to R and GRIS](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) — MIT (OpenCourseWare)
-- [Statiscal Learning with R](https://www.classcentral.com/classroom/youtube-statistical-learning-with-r-512673) — Stanford
-  
----
-
-## Data Science
 - [Data Science and Material Informatics](https://www.coursera.org/learn/material-informatics) — Georgia Tech (Coursera)
+- [Intro to R and GRIS](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/) — MIT (OpenCourseWare)
 - [Intro to Computational Thinking and Data Science](https://www.classcentral.com/classroom/mit-ocw-6-0002-introduction-to-computational-thinking-and-data-science-fall-2016-40931) — MIT
 - [Scientific Data Analytics with R](https://rscidata.utoronto.ca/) — University of Toronto
-
+- [Statiscal Learning with R](https://www.classcentral.com/classroom/youtube-statistical-learning-with-r-512673) — Stanford
+  
 ---
 
 ## DevOps & Cloud
 - [Cloud System Software](https://www.coursera.org/learn/cloud-sys-software) — Georgia Tech (Coursera)
 - [Cloud Apps](https://www.coursera.org/learn/cloud-app) — Georgia Tech (Coursera)
-
----
-
-## Eletrical Engineering
-- [Introduction to Eletrical Engineering and Computer Science I](https://www.classcentral.com/classroom/mit-ocw-6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011-40932) — MIT
-- [Intro to Electronics](https://www.coursera.org/learn/electronics) — Georgia Tech (Coursera)
 
 ---
 
@@ -182,28 +162,24 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
   
 ---
 
-## Sound
-- [Computational Music Theory and Analysis](https://www.classcentral.com/course/mit-ocw-21m-383-computational-music-theory-and-analysis-spring-2023-497094) — MIT
-- [Interactive Music Systems](https://ocw.mit.edu/courses/21m-385-interactive-music-systems-fall-2016/) — MIT (OpenCourseWare)
-- [Music and Technology](https://ocw.mit.edu/courses/21m-380-music-and-technology-sound-design-spring-2016/) — MIT (OpenCourseWare)
-- [Sound Design for Interactive Learning Tools](https://pe.gatech.edu/courses/sound-design-for-interactive-learning-tools)  — Georgia Tech
-  
----
-
 ## UX
 - [Human-Computer Interaction I-IV](https://pe.gatech.edu/courses/human-computer-interaction-i-fundamentals-and-design-principles) — Georgia Tech 
 - [Introduction to UX](https://www.coursera.org/learn/user-experience-design) — Georgia Tech (Coursera)
 - [UX Design](https://www.coursera.org/learn/user-experience-design-cam) — University of Cambridge (Coursera)
-- [User Interface Design and Implementation](https://ocw.mit.edu/courses/6-831-user-interface-design-and-implementation-spring-2011/) — MIT (OpenCourseWare)
 
 ---
 
 ## Others
+- [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) — MIT (OpenCourseWare)
+- [Cryptocurrency Engineering ad Design](https://www.classcentral.com/classroom/mit-ocw-mas-s62-cryptocurrency-engineering-and-design-spring-2018-40972) — MIT
 - [Computational Camera and Photography](https://ocw.mit.edu/courses/mas-531-computational-camera-and-photography-fall-2009/) — MIT (OpenCourseWare)
 - [Computer Graphics](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) — MIT (OpenCourseWare)
 - [CS149 Parallel Computing](https://www.classcentral.com/classroom/youtube-stanford-cs149-i-parallel-computing-i-2023-i-kayvon-fatahalian-and-kunle-olukotun-512660) — Stanford
 - [Intro to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/) — MIT (OpenCourseWare)
+- [Introduction to Eletrical Engineering and Computer Science I](https://www.classcentral.com/classroom/mit-ocw-6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011-40932) — MIT
+- [Intro to Electronics](https://www.coursera.org/learn/electronics) — Georgia Tech (Coursera)
 - [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — *Cornell University* (edx)
+- [Sound Design for Interactive Learning Tools](https://pe.gatech.edu/courses/sound-design-for-interactive-learning-tools)  — Georgia Tech
 
 ---
 
