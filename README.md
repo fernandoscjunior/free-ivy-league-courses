@@ -122,13 +122,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Tensor 2 for Deep Learning](https://www.coursera.org/specializations/tensorflow2-deeplearning) — Imperial College (Coursera)
 
 ---
-
-## Network
-- [Network and Computer Security](https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/) — MIT (OpenCourseWare)
-- [Network Optimization](https://ocw.mit.edu/courses/15-082j-network-optimization-fall-2010/) — MIT (OpenCourseWare)
   
----
-
 ## Programming
 - [CS106A Programming Methodology](https://see.stanford.edu/Course/CS106A) — Stanford
 - [CS106B Programming Abstractions](https://see.stanford.edu/Course/CS106B) — Stanford
@@ -177,6 +171,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Intro to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/) — MIT (OpenCourseWare)
 - [Introduction to Eletrical Engineering and Computer Science I](https://www.classcentral.com/classroom/mit-ocw-6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011-40932) — MIT
 - [Intro to Electronics](https://www.coursera.org/learn/electronics) — Georgia Tech (Coursera)
+- [Network and Computer Security](https://ocw.mit.edu/courses/6-857-network-and-computer-security-spring-2014/) — MIT (OpenCourseWare)
+- [Network Optimization](https://ocw.mit.edu/courses/15-082j-network-optimization-fall-2010/) — MIT (OpenCourseWare)
 - [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — *Cornell University* (edx)
 - [Sound Design for Interactive Learning Tools](https://pe.gatech.edu/courses/sound-design-for-interactive-learning-tools)  — Georgia Tech
 
