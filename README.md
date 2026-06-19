@@ -56,7 +56,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## Cybersecurity
 - [Computer Systems Security](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/) — MIT (OpenCourseWare)
 - [Hacker Tools](https://www.classcentral.com/course/independent-hacker-tools-13160) — MIT
-- [Intro to Cybersecurity](https://www.open.edu/openlearn/digital-computing/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab) — Open Univeristy
 
 ---
 
@@ -193,7 +192,6 @@ If you know of other free Ivy League courses, feel free to add them.
 - *Harvard*
 - Imperial College
 - MIT (OpenCourseware and MITx)
-- Open Univeristy
 - Oxford
 - *Princeton*
 - Stanford
