@@ -164,8 +164,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ## Others
 - [Blockchain and Money](https://ocw.mit.edu/courses/15-s12-blockchain-and-money-fall-2018/) — MIT (OpenCourseWare)
 - [Cryptocurrency Engineering ad Design](https://www.classcentral.com/classroom/mit-ocw-mas-s62-cryptocurrency-engineering-and-design-spring-2018-40972) — MIT
-- [Computational Camera and Photography](https://ocw.mit.edu/courses/mas-531-computational-camera-and-photography-fall-2009/) — MIT (OpenCourseWare)
-- [Computer Graphics](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/) — MIT (OpenCourseWare)
 - [CS149 Parallel Computing](https://www.classcentral.com/classroom/youtube-stanford-cs149-i-parallel-computing-i-2023-i-kayvon-fatahalian-and-kunle-olukotun-512660) — Stanford
 - [Intro to Computational Thinking](https://ocw.mit.edu/courses/18-s191-introduction-to-computational-thinking-fall-2022/) — MIT (OpenCourseWare)
 - [Introduction to Eletrical Engineering and Computer Science I](https://www.classcentral.com/classroom/mit-ocw-6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011-40932) — MIT
