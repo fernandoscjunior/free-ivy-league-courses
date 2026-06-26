@@ -11,7 +11,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Databases](#databases)
 - [Data Analysis & Data Science](#data-analysis--data-science)
 - [DevOps & Cloud](#devops--cloud)
-- [IOT & Robotics](#iot--robotics)
 - [Programming](#programming)
 - [UX](#ux)
 - [Others](#others)
@@ -47,7 +46,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Computing for Data Analysis](https://pe.gatech.edu/courses/computing-for-data-analysis#tab-overview) — Georgia Tech
 - [Data Analytics for Digital Transformations](https://www.edx.org/certificates/professional-certificate/dartmouthx-data-analytics-for-digital-transformation) *Dartmouth* (edx)
 - [Data Science and Material Informatics](https://www.coursera.org/learn/material-informatics) — Georgia Tech (Coursera)
-- [Scientific Data Analytics with R](https://rscidata.utoronto.ca/) — University of Toronto
 - [Data Science](https://www.edx.org/certificates/professional-certificate/harvardx-data-science) *Harvard* (edx)
   
 ---
@@ -59,14 +57,9 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 
-## IOT & Robotics
-- [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) — *Columbia University* (Coursera)
-- [Self Driving Cars](https://www.coursera.org/specializations/self-driving-cars) — University of Toronto (Coursera)
-  
----
-
 ## Machine Learning
 - [Decision Making and Reinforcement Learning](https://www.coursera.org/learn/dmrol) — *Columbia University* (Coursera)
+- [Essential Math for AI](https://www.classcentral.com/course/computer-science-columbia-university-essential-ma-295554) *Columbia* (edx)
 - [Fundamentals of TinyML](https://www.classcentral.com/course/machine-learning-harvard-university-fundamentals--21641?ref=freecodecamp) — *Harvard* (edx)
 - [Machine Learning Fundamentals](https://www.coursera.org/learn/machine-learning-fundamentals-dartmouth) — *Dartmouth* (Coursera)
 - [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) — *Dartmouth* (Coursera)
@@ -75,26 +68,22 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Applied Tiny ML](https://www.edx.org/certificates/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale) *Harvard* (edx)
 
 ### Deep Learning
+- [Deep Learning for Natural Language Processing](https://www.classcentral.com/course/independent-deep-learning-for-natural-language-processing-8097) Oxford 
 - [Model Based Deep Learning](https://www.classcentral.com/classroom/youtube-model-based-deep-learning-beyond-unrolling-182518) — *Yale*
 - [Tensor 2 for Deep Learning](https://www.coursera.org/specializations/tensorflow2-deeplearning) — Imperial College (Coursera)
 
 ---
   
 ## Programming
+- [Android App Development (Advanced)](https://www.coursera.org/specializations/advanced-app-android) — Imperial College (Coursera)
 - [CSCI1730 Intro to Programming Languages](https://www.classcentral.com/course/independent-csci-1730-introduction-to-programming-languages-458?ref=freecodecamp)  — *Brown University*
 - [Computer Science: Programming with Purpose (Java)](https://www.coursera.org/learn/cs-programming-java) — *Princeton* (Coursera)
 - [Computing in Python I-IV](https://pe.gatech.edu/courses/computing-python-i-fundamentals-and-procedural-programming) — Georgia Tech
+- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — *Dartmouth* / Institut Mines-Télécom (Coursera)
 - [Haskell Programming](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) — *University of Pennsylvania*
 - [Intro to Java Programming I-III](https://pe.gatech.edu/courses/introduction-java-programming-i-foundations-and-syntax-basics) — Georgia Tech
+- [Programming & Data Structures](https://www.classcentral.com/course/computer-science-columbia-university-programming--295555) *Columbia*
 
-### Mobile
-- [Android App Development (Advanced)](https://www.coursera.org/specializations/advanced-app-android) — Imperial College (Coursera)
-- [IOS Development with Swift](https://www.coursera.org/specializations/app-development) — University of Toronto (Coursera)
-
-### C
-- [C Programming](https://c-programming.onlinelearning.utoronto.ca/) — University of Toronto
-- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) — *Dartmouth* / Institut Mines-Télécom (Coursera)
-  
 ---
 
 ## UX
@@ -105,6 +94,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## Others
+- [First Principles in Computer Vision](https://www.coursera.org/specializations/firstprinciplesofcomputervision) — *Columbia University* (Coursera)
 - [Intro to Electronics](https://www.coursera.org/learn/electronics) — Georgia Tech (Coursera)
 - [Intro to Medical Software](https://www.coursera.org/learn/introduction-to-medical-software?msockid=1830aefc482962db0d8cb9a749f06365) *Yale* (Coursera)
 - [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — *Cornell University* (edx)
@@ -133,12 +123,6 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - University of Cambridge
 - University of Edinburgh
 
-
-## Canadian Universities
-- University o British Columbia
-- University of Toronto
-
----
 
 ## 🚀 Contributing
 Pull requests are welcome!  
