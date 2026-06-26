@@ -45,8 +45,10 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## Data Analysis & Data Science
 - [Computing for Data Analysis](https://pe.gatech.edu/courses/computing-for-data-analysis#tab-overview) — Georgia Tech
+- [Data Analytics for Digital Transformations](https://www.edx.org/certificates/professional-certificate/dartmouthx-data-analytics-for-digital-transformation) *Dartmouth* (edx)
 - [Data Science and Material Informatics](https://www.coursera.org/learn/material-informatics) — Georgia Tech (Coursera)
 - [Scientific Data Analytics with R](https://rscidata.utoronto.ca/) — University of Toronto
+- [Data Science](https://www.edx.org/certificates/professional-certificate/harvardx-data-science) *Harvard* (edx)
   
 ---
 
@@ -69,6 +71,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Machine Learning Fundamentals](https://www.coursera.org/learn/machine-learning-fundamentals-dartmouth) — *Dartmouth* (Coursera)
 - [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) — *Dartmouth* (Coursera)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) — Imperial College (Coursera)
+- [Tiny ML](https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning) *Harvard* (edx)
+- [Applied Tiny ML](https://www.edx.org/certificates/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale) *Harvard* (edx)
 
 ### Deep Learning
 - [Model Based Deep Learning](https://www.classcentral.com/classroom/youtube-model-based-deep-learning-beyond-unrolling-182518) — *Yale*
@@ -102,6 +106,7 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## Others
 - [Intro to Electronics](https://www.coursera.org/learn/electronics) — Georgia Tech (Coursera)
+- [Intro to Medical Software](https://www.coursera.org/learn/introduction-to-medical-software?msockid=1830aefc482962db0d8cb9a749f06365) *Yale* (Coursera)
 - [The Computing Technology Inside your Smartphone](https://www.classcentral.com/course/computer-programming-cornell-university-the-compu-2809?ref=freecodecamp) — *Cornell University* (edx)
 - [Sound Design for Interactive Learning Tools](https://pe.gatech.edu/courses/sound-design-for-interactive-learning-tools)  — Georgia Tech
 
