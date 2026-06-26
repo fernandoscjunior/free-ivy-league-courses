@@ -192,7 +192,7 @@ If you know of other free Ivy League courses, feel free to add them.
 - MIT (OpenCourseware and MITx)
 - Oxford
 - *Princeton*
-- Stanford
+- [Stanford](Universities/Stanford.md)
 - University of Cambridge
 - *University of Pennsylvania*
 - University of Toronto
