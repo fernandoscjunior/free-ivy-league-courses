@@ -46,6 +46,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [CS234 Reinforcement Learning Spring 2024](https://www.classcentral.com/classroom/youtube-stanford-cs234-i-reinforcement-learning-i-spring-2024-i-emma-brunskill-512659) Youtube
 - [CS336 Language Modeling from Scratch 2025](https://www.classcentral.com/classroom/youtube-stanford-cs336-language-modeling-from-scratch-i-2025-512656) Youtube
 
+--
 
 ## Elective Courses
 - [Automata Theory](https://www.classcentral.com/course/coding-stanford-university-automata-theory-376) edx
@@ -54,3 +55,4 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [How to Design Addictive Video Games](https://www.classcentral.com/classroom/youtube-stanford-seminar-how-to-design-addictive-games-191982) Youtube
 - [Physical-Based Sound Sythesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) Kadenze
 
+--
