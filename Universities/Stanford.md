@@ -4,7 +4,7 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 
 ## Stanford Website
 - [Stanford Online - Free Courses](https://online.stanford.edu/explore?filter%5B0%5D=free_or_paid%3Afree&filter%5B1%5D=topic%3A1047&filter%5B2%5D=topic%3A1057&filter%5B3%5D=topic%3A1062)
-- [Classcentral Stanford Free IT Courses](https://www.classcentral.com/university/stanford?free=true&subject=ai%2Ccs%2Cdata-science%2Cprogramming-and-software-development)
+- [Classcentral List of Stanford Free IT Courses](https://www.classcentral.com/university/stanford?free=true&subject=ai%2Ccs%2Cdata-science%2Cprogramming-and-software-development)
 
 ---
 
