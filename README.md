@@ -62,8 +62,10 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 - [Essential Math for AI](https://www.classcentral.com/course/computer-science-columbia-university-essential-ma-295554) *Columbia* (edx)
 - [Fundamentals of TinyML](https://www.classcentral.com/course/machine-learning-harvard-university-fundamentals--21641?ref=freecodecamp) — *Harvard* (edx)
 - [Machine Learning Fundamentals](https://www.coursera.org/learn/machine-learning-fundamentals-dartmouth) — *Dartmouth* (Coursera)
+- [Machine Learning: Unsupervised Learning](https://www.classcentral.com/course/udacity-machine-learning-unsupervised-learning-1848) *Brown* (Udacity)
 - [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) — *Dartmouth* (Coursera)
 - [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) — Imperial College (Coursera)
+- [Reinforcement Learning](https://www.classcentral.com/course/udacity-reinforcement-learning-1849) *Brown* (Udacity)
 - [Tiny ML](https://www.edx.org/certificates/professional-certificate/harvardx-tiny-machine-learning) *Harvard* (edx)
 - [Applied Tiny ML](https://www.edx.org/certificates/professional-certificate/harvardx-applied-tiny-machine-learning-tinyml-for-scale) *Harvard* (edx)
 
@@ -117,11 +119,8 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 ## UK Universities
 - Imperial College
-- King's College
 - Oxford
-- UCL
 - University of Cambridge
-- University of Edinburgh
 
 
 ## 🚀 Contributing
