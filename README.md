@@ -20,9 +20,10 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## University Websites (Listing Free IT Courses)
+- [Cornell Univeristy](https://ocw.ece.cornell.edu/)
 - [Coursera](https://www.coursera.org/browse)
 - [edx](https://www.edx.org/search?q=artificial+intelligence&attributes=Artificial+Intelligence&attributes=Computer+Science&attributes=Electronics&attributes=Data+Analysis+%26+Statistics&attributes=Engineering&language=English)
-- [Harvard](https://pll.harvard.edu/catalog?topics%5B702%5D=702&topics%5B714%5D=714&topics%5B715%5D=715&price%5B1%5D=1&max_price=&start_date=&keywords=&available_anytime=0&url=)
+- [Harvard](https://pll.harvard.edu/catalog?topics%5B702%5D=702&topics%5B714%5D=714&topics%5B715%5D=715&price%5B1%5D=1&max_price=&keywords=&available_anytime=0&url=&page=0)
 - [Udacity](https://www.udacity.com/catalog?price=free&school=programming%20and%20development%2Cartificial%20intelligence%2Cdata%20science%2Ccybersecurity)
 
 ---
@@ -49,10 +50,9 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 ---
 
 ## Dartmouth
-- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) Coursera
-- [Data Analytics for Digital Transformations](https://www.edx.org/certificates/professional-certificate/dartmouthx-data-analytics-for-digital-transformation) edx
-- [Machine Learning Fundamentals](https://www.coursera.org/learn/machine-learning-fundamentals-dartmouth) Coursera
-- [Machine Learning with Neural Networks](https://www.coursera.org/learn/machine-learning-with-neural-networks-dartmouth) Coursera
+- [C Programming with Linux](https://www.coursera.org/specializations/c-programming-linux) Coursera/edx
+- [Data Analytics for Digital Transformations](https://www.edx.org/certificates/professional-certificate/dartmouthx-data-analytics-for-digital-transformation) Coursera/edx
+- [Practical Machine Learning: Foundations to Neural Networks](https://www.coursera.org/specializations/dartmouth-practical-machine-learning)
 
 ---
 
@@ -70,14 +70,19 @@ Inspired by [build-your-own-x](https://github.com/codecrafters-io/build-your-own
 
 - [Algorithms Pt.I](https://www.coursera.org/learn/algorithms-part1) Coursera
 - [Algorithms Pt.II](https://www.coursera.org/learn/algorithms-part2) Coursera
+- [Analysis of Algorithm](https://www.coursera.org/learn/analysis-of-algorithms) Coursera
 - [Computer Architecture](https://www.coursera.org/learn/comparch) Coursera
 - [Computer Science: Algorithms, Theory and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) Coursera
 - [Computer Science: Programming with Purpose (Java)](https://www.coursera.org/learn/cs-programming-java) Coursera
+- [Cryptocurrency](https://www.coursera.org/learn/cryptocurrency) Coursera
 
 ---
 
 ## University of Pennsylvania
+- [AI and Machine Learning Fundamentals with Python](https://www.coursera.org/specializations/ai-machinelearning-essentials) Coursera
 - [Haskell Programming](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html)
+- [How to Use Data](https://www.coursera.org/specializations/how-to-use-data) Coursera
+- [Intro to Python and Java Programming](https://www.coursera.org/specializations/programming-python-java) Coursera
 
 ---
 
