@@ -60,14 +60,18 @@ This is an **Unofficial** list of Stanford courses organized to look like an off
 - [CS336 Language Modeling from Scratch 2025](https://www.classcentral.com/classroom/youtube-stanford-cs336-language-modeling-from-scratch-i-2025-512656) Youtube
 
 ## Elective Courses
+- [Advanced Cybersecurity](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)
+- [Applications of AI in Medicine](https://online.stanford.edu/courses/xmlph090-applications-machine-learning-medicine-program-preview)
 - [Automata Theory](https://www.classcentral.com/course/coding-stanford-university-automata-theory-376) edx
 - [CS223A Intro to Robotics](https://see.stanford.edu/Course/CS223A) Stanford
 - [Cryptocurrencies and Blockchains - The Science Behind the Technology](https://www.classcentral.com/classroom/youtube-stanford-webinar-cryptocurrencies-and-blockchains-the-science-behind-the-technology-dan-boneh-191601) Youtube
+- [Generative AI: Technology, Business and Society](https://online.stanford.edu/courses/xacs100-advanced-cybersecurity-program-preview)
 - [Human Computer Interaction Webnar Series](https://www.classcentral.com/course/youtube-stanford-cs547-human-computer-interaction-seminar-series-107766) Youtube
 - [Introduction to Quantum Computing](https://www.classcentral.com/course/youtube-stanford-seminar-how-to-compute-with-schroedinger-s-cat-an-introduction-to-quantum-computing-110031) Youtube
 - [IOT: From Smart Sensors to Smart Network](https://www.classcentral.com/course/youtube-stanford-webinar-iot-from-smart-sensors-to-smart-networks-110007) Youtube
 - [How to Design Addictive Video Games](https://www.classcentral.com/classroom/youtube-stanford-seminar-how-to-design-addictive-games-191982) Youtube
 - [Physical-Based Sound Sythesis for Games and Interactive Systems](https://www.kadenze.com/courses/physics-based-sound-synthesis-for-games-and-interactive-systems-iv/info) Kadenze
+- [Statiscal Learning with Python](https://online.stanford.edu/courses/sohs-ystatslearningp-statistical-learning-python) edx
 - [Statiscal Learning with R](https://www.classcentral.com/classroom/youtube-statistical-learning-with-r-512673) Youtube
 - [Product Management 101](https://www.classcentral.com/course/youtube-product-management-101-the-product-lifecycle-191613) Youtube
 
